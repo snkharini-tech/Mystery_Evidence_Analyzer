@@ -104,6 +104,20 @@ Mystery Investigation/
 
 ---
 
+# Work Pictures :
+
+<img width="1471" height="885" alt="image" src="https://github.com/user-attachments/assets/a80027c5-50d8-43ae-a1b9-ae24098924df" />
+
+<img width="1447" height="777" alt="image" src="https://github.com/user-attachments/assets/0dc6f7e9-d5fa-49cc-a91a-0061cd3db4eb" />
+
+<img width="1396" height="737" alt="image" src="https://github.com/user-attachments/assets/63da4fb7-0a69-4ec4-9ab4-8d29b88d11bf" />
+
+<img width="1371" height="857" alt="image" src="https://github.com/user-attachments/assets/b4c77c23-6319-4082-9b53-b067b231e44e" />
+
+<img width="1496" height="862" alt="image" src="https://github.com/user-attachments/assets/a2b85aa6-a58c-4cc6-bd25-287cb69efba3" />
+
+---
+
 ## File Description
 
 ### app.py
