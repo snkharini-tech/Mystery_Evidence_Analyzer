@@ -12,6 +12,12 @@ It extracts text from the uploaded image, converts the extracted words into nume
 
 ---
 
+# Demo Link :
+
+https://mysteryevidenceanalyzer-9xxxthfpz4b8pyfqr4fxen.streamlit.app/
+
+---
+
 ## Objectives
 
 - To extract text from mystery evidence images using OCR.
